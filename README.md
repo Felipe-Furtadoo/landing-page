@@ -1,2 +1,2 @@
 # landing-page
-Landing-Page with Bootstrap
+Landing-Pages for different types of business with Bootstrap.
